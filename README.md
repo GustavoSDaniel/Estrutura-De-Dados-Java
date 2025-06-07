@@ -1,9 +1,9 @@
-# 📚 Curso Completo de Estrutura de Dados com Java
+# Estrutura de Dados com Java
 
-Bem-vindo ao repositório do **Curso Completo de Estrutura de Dados com Java**! Aqui você encontrará todo o material, exemplos de código.
+Bem-vindo ao repositório do **Estrutura de Dados com Java**! Aqui você encontrará todo o material, exemplos de código.
 
-## 🎯 Objetivo do Curso
-Este curso foi projetado para:
+## 🎯 Objetivo 
+Projetado para:
 - Dominar os fundamentos de estruturas de dados em Java
 - Aprender a analisar a complexidade de algoritmos (Big-O Notation)
 - Implementar estruturas de dados eficientes
